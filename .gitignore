@@ -1,5 +1,6 @@
 *.i
 *.ii
+*.out
 *.gpu
 *.ptx
 *.cubin
